@@ -1,0 +1,20 @@
+{
+  "name": "encode-zk-bootcamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "git": "git add . && git cz && git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThomasDos/encode-zk-bootcamp.git"
+  },
+  "keywords": [],
+  "author": "Thomas Dos Anjos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThomasDos/encode-zk-bootcamp/issues"
+  },
+  "homepage": "https://github.com/ThomasDos/encode-zk-bootcamp#readme"
+}
